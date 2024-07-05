@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Leesuchang"
-  avatar           : "/images/leesu.png"
+  avatar           : "/images/2024-07-01-first/pang.png"
   bio              : "뒤늦은 학부생 개발자 블로그"
   location         : "South Korea"
   email            :
@@ -299,3 +299,6 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: 목차
